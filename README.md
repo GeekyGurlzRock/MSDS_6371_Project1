@@ -26,3 +26,6 @@ https://cran.r-project.org/src/contrib/Archive/fiftystater/fiftystater_1.0.1.tar
 Team YouTube Links:
 
 Ana Alfaro - https://youtu.be/TLHha2IIGTg
+
+Jake Harrison: https://youtu.be/1GQCQpzYJMA
+
