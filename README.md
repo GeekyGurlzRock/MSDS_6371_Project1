@@ -29,5 +29,5 @@ Ana Alfaro - https://youtu.be/TLHha2IIGTg
 
 Jake Harrison: https://youtu.be/1GQCQpzYJMA
 
-Alexander Sepenu:  https://youtu.be/33vIJfXQHWE
+
 
